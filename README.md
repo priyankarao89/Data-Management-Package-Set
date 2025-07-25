@@ -6,7 +6,7 @@ This section provides a detailed comparison of key tools relevant to test data m
 
 ---
 
-## Delphix
+### Delphix
 
 # What is it?
 Delphix is an enterprise-grade **data virtualization and masking platform** that enables organizations to rapidly create, manage, and deliver secure, compliant copies of production data for development, testing, and analytics.
@@ -35,7 +35,7 @@ Delphix is an enterprise-grade **data virtualization and masking platform** that
 
 ---
 
-## Tonic.AI
+### Tonic.AI
 
 # What is it?
 Tonic.AI is a synthetic data generation and data masking platform that produces realistic, privacy-preserving test data by transforming or generating datasets that mimic real production data without exposing sensitive information.
@@ -64,7 +64,7 @@ Tonic.AI is a synthetic data generation and data masking platform that produces 
 
 ---
 
-## Microsoft Azure DevTest Labs
+### Microsoft Azure DevTest Labs
 
 # What is it?
 Azure DevTest Labs is a cloud service that enables developers and testers to quickly create, manage, and control development and test environments in Microsoft Azure, leveraging automation and cost management features.
@@ -93,7 +93,7 @@ Azure DevTest Labs is a cloud service that enables developers and testers to qui
 
 ---
 
-# Overall Summary
+### Overall Summary
 
 | Tool                  | Primary Function                    | Strengths                                               | Ideal For                               |
 |-----------------------|----------------------------------   |------------------------------------------------         |-----------------------------------------|
